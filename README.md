@@ -1,2 +1,2 @@
 # Marketing_Performance_Modelling
-This repository contains data science projects focused on marketing, including Marketing Mix Modeling (MMM) for optimizing ad spend and Conversion Rate Optimization (CRO) using machine learning like XGBoost and genetic algorithms to improve e-commerce conversion rates, showcasing data-driven marketing optimization.
+This repository contains data science projects focused on marketing, Conversion Rate Optimization (CRO), using machine learning Techniques like XGBoost, genetic algorithms, eye-tracking model to improve e-commerce conversion rates, showcasing data-driven marketing optimization.
