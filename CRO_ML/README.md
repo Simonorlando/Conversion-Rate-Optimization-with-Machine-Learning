@@ -24,5 +24,5 @@ This project aims to improve **Conversion Rate Optimization (CRO)** for an e-com
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your_username/CRO_ML_Project.git
+   git clone https://github.com/Simonorlando/CRO_ML_Project.git
    cd CRO_ML_Project
